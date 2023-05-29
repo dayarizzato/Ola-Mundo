@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo.
  
-Linha alterada diretamente no site.
+Linha alterada diretamente no site do README.
